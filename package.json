@@ -1,5 +1,12 @@
 {
   "name": "vuejs",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kuba108/vuejs_rails_example.git",
+  "author": "Kuba Malina <majak108@gmail.com>",
+  "license": "MIT"
 }
